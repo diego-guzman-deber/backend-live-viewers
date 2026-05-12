@@ -19,6 +19,9 @@ async function bootstrap() {
 
       // acceso desde red interna
       'http://172.20.16.38:5173',
+
+      // producción
+      'https://view-live-viewers.eldeber.bo',
     ],
     credentials: true,
   });
