@@ -1,33 +1,42 @@
 {
-  "updatedAt": "2026-04-17T20:22:44.369Z",
+  "updatedAt": "2026-04-20T00:45:53.839Z",
   "tiktok": {
-    "pubgmobile.np.official": {
-      "username": "pubgmobile.np.official",
-      "viewerCount": 2986,
+    "redunotv": {
+      "username": "redunotv",
+      "viewerCount": 5538,
       "isLive": true,
-      "updatedAt": "2026-04-17T15:59:46.700Z"
+      "updatedAt": "2026-04-20T00:26:16.531Z"
+    },
+    "unitel.bo": {
+      "username": "unitel.bo",
+      "viewerCount": 1499,
+      "isLive": true,
+      "updatedAt": "2026-04-20T00:45:51.058Z"
+    },
+    "eldeber.com.bo": {
+      "username": "eldeber.com.bo",
+      "viewerCount": 1147,
+      "isLive": true,
+      "updatedAt": "2026-04-20T00:45:53.839Z"
     }
   },
   "youtube": {
-    "_cok5SgTh1c": {
-      "videoId": "_cok5SgTh1c",
-      "concurrentViewers": 5064,
-      "title": "LIVE: NBC News NOW - April 17",
-      "channelTitle": "NBC News",
+    "lGyhbBAnVgI": {
+      "videoId": "lGyhbBAnVgI",
+      "concurrentViewers": 1453,
+      "title": "Así Decidimos: Segunda Vuelta",
+      "channelTitle": "Unitel Bolivia",
       "isLive": true,
-      "updatedAt": "2026-04-17T16:01:36.631Z"
+      "updatedAt": "2026-04-19T21:50:19.784Z"
+    },
+    "YNrR9bEMv78": {
+      "videoId": "YNrR9bEMv78",
+      "concurrentViewers": 1091,
+      "title": "OPERATIVO UNO DECIDE -  SEGUNDA VUELTA 🗳️",
+      "channelTitle": "Red Uno De Bolivia",
+      "isLive": true,
+      "updatedAt": "2026-04-19T21:50:56.289Z"
     }
   },
-  "facebook": {
-    "live": {
-      "pageId": "facebook-public-live",
-      "videoId": "live",
-      "concurrentViewers": 268,
-      "title": "Facebook Live | Facebook",
-      "status": "LIVE",
-      "permalinkUrl": "https://www.facebook.com/watch/live/?ref=watch_permalink",
-      "isLive": true,
-      "updatedAt": "2026-04-17T20:22:44.369Z"
-    }
-  }
+  "facebook": {}
 }

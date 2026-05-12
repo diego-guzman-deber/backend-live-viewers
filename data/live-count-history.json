@@ -1,646 +1,2158 @@
 {
-  "updatedAt": "2026-04-17T16:12:37.327Z",
-  "nextId": 81,
+  "updatedAt": "2026-04-19T22:50:31.288Z",
+  "nextId": 270,
   "live_count": [
     {
       "id": 1,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5563,
-      "recorded_at": "2026-04-17T15:27:19.203Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2445,
+      "recorded_at": "2026-04-19T20:06:50.858Z"
     },
     {
       "id": 2,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
       "platform": "tiktok",
-      "view_count": 1820,
-      "recorded_at": "2026-04-17T15:27:24.263Z"
+      "view_count": 566,
+      "recorded_at": "2026-04-19T20:07:09.985Z"
     },
     {
       "id": 3,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5559,
-      "recorded_at": "2026-04-17T15:27:44.208Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2472,
+      "recorded_at": "2026-04-19T20:07:20.719Z"
     },
     {
       "id": 4,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
       "platform": "tiktok",
-      "view_count": 1898,
-      "recorded_at": "2026-04-17T15:27:54.432Z"
+      "view_count": 571,
+      "recorded_at": "2026-04-19T20:07:26.747Z"
     },
     {
       "id": 5,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5552,
-      "recorded_at": "2026-04-17T15:28:09.216Z"
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 553,
+      "recorded_at": "2026-04-19T20:07:40.140Z"
     },
     {
       "id": 6,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 186,
+      "channel_name": "redunotv",
       "platform": "tiktok",
-      "view_count": 1957,
-      "recorded_at": "2026-04-17T15:28:22.249Z"
+      "view_count": 2549,
+      "recorded_at": "2026-04-19T20:07:50.340Z"
     },
     {
       "id": 7,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5591,
-      "recorded_at": "2026-04-17T15:28:34.731Z"
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 513,
+      "recorded_at": "2026-04-19T20:08:08.341Z"
     },
     {
       "id": 8,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 186,
+      "channel_name": "redunotv",
       "platform": "tiktok",
-      "view_count": 2010,
-      "recorded_at": "2026-04-17T15:28:52.208Z"
+      "view_count": 2591,
+      "recorded_at": "2026-04-19T20:08:20.397Z"
     },
     {
       "id": 9,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
       "platform": "tiktok",
-      "view_count": 2048,
-      "recorded_at": "2026-04-17T15:29:22.096Z"
+      "view_count": 537,
+      "recorded_at": "2026-04-19T20:08:40.592Z"
     },
     {
       "id": 10,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5567,
-      "recorded_at": "2026-04-17T15:29:24.583Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2631,
+      "recorded_at": "2026-04-19T20:08:50.330Z"
     },
     {
       "id": 11,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
       "platform": "youtube",
-      "view_count": 5598,
-      "recorded_at": "2026-04-17T15:29:49.752Z"
+      "view_count": 185,
+      "recorded_at": "2026-04-19T20:09:01.825Z"
     },
     {
       "id": 12,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
       "platform": "tiktok",
-      "view_count": 2094,
-      "recorded_at": "2026-04-17T15:29:54.195Z"
+      "view_count": 575,
+      "recorded_at": "2026-04-19T20:09:10.403Z"
     },
     {
       "id": 13,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5589,
-      "recorded_at": "2026-04-17T15:30:14.334Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2752,
+      "recorded_at": "2026-04-19T20:09:21.114Z"
     },
     {
       "id": 14,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
-      "platform": "tiktok",
-      "view_count": 2140,
-      "recorded_at": "2026-04-17T15:30:24.365Z"
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
+      "platform": "youtube",
+      "view_count": 191,
+      "recorded_at": "2026-04-19T20:09:39.297Z"
     },
     {
       "id": 15,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5572,
-      "recorded_at": "2026-04-17T15:30:39.232Z"
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 605,
+      "recorded_at": "2026-04-19T20:09:23.173Z"
     },
     {
       "id": 16,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 186,
+      "channel_name": "redunotv",
       "platform": "tiktok",
-      "view_count": 2169,
-      "recorded_at": "2026-04-17T15:30:52.954Z"
+      "view_count": 2872,
+      "recorded_at": "2026-04-19T20:09:51.620Z"
     },
     {
       "id": 17,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5585,
-      "recorded_at": "2026-04-17T15:31:05.198Z"
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 629,
+      "recorded_at": "2026-04-19T20:10:07.415Z"
     },
     {
       "id": 18,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
-      "platform": "tiktok",
-      "view_count": 2169,
-      "recorded_at": "2026-04-17T15:31:22.249Z"
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
+      "platform": "youtube",
+      "view_count": 222,
+      "recorded_at": "2026-04-19T20:10:15.163Z"
     },
     {
       "id": 19,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5119,
-      "recorded_at": "2026-04-17T15:31:53.978Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2903,
+      "recorded_at": "2026-04-19T20:10:21.314Z"
     },
     {
       "id": 20,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
-      "platform": "tiktok",
-      "view_count": 2210,
-      "recorded_at": "2026-04-17T15:31:52.074Z"
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
+      "platform": "youtube",
+      "view_count": 862,
+      "recorded_at": "2026-04-19T20:10:13.552Z"
     },
     {
       "id": 21,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
       "platform": "youtube",
-      "view_count": 4301,
-      "recorded_at": "2026-04-17T15:32:19.241Z"
+      "view_count": 228,
+      "recorded_at": "2026-04-19T20:10:39.805Z"
     },
     {
       "id": 22,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
       "platform": "tiktok",
-      "view_count": 2202,
-      "recorded_at": "2026-04-17T15:32:24.477Z"
+      "view_count": 630,
+      "recorded_at": "2026-04-19T20:10:39.611Z"
     },
     {
       "id": 23,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 4297,
-      "recorded_at": "2026-04-17T15:32:44.276Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2875,
+      "recorded_at": "2026-04-19T20:10:51.828Z"
     },
     {
       "id": 24,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
       "platform": "tiktok",
-      "view_count": 2231,
-      "recorded_at": "2026-04-17T15:32:54.225Z"
+      "view_count": 653,
+      "recorded_at": "2026-04-19T20:11:09.699Z"
     },
     {
       "id": 25,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 4345,
-      "recorded_at": "2026-04-17T15:33:10.294Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2895,
+      "recorded_at": "2026-04-19T20:11:22.361Z"
     },
     {
       "id": 26,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
-      "platform": "tiktok",
-      "view_count": 2268,
-      "recorded_at": "2026-04-17T15:33:22.255Z"
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
+      "platform": "youtube",
+      "view_count": 848,
+      "recorded_at": "2026-04-19T20:11:25.821Z"
     },
     {
       "id": 27,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
       "platform": "youtube",
-      "view_count": 4448,
-      "recorded_at": "2026-04-17T15:33:34.482Z"
+      "view_count": 241,
+      "recorded_at": "2026-04-19T20:11:33.293Z"
     },
     {
       "id": 28,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
       "platform": "tiktok",
-      "view_count": 2285,
-      "recorded_at": "2026-04-17T15:33:52.595Z"
+      "view_count": 666,
+      "recorded_at": "2026-04-19T20:11:40.864Z"
     },
     {
       "id": 29,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 186,
+      "channel_name": "redunotv",
       "platform": "tiktok",
-      "view_count": 2331,
-      "recorded_at": "2026-04-17T15:34:22.137Z"
+      "view_count": 2797,
+      "recorded_at": "2026-04-19T20:11:51.467Z"
     },
     {
       "id": 30,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
       "platform": "youtube",
-      "view_count": 5011,
-      "recorded_at": "2026-04-17T15:34:24.517Z"
+      "view_count": 241,
+      "recorded_at": "2026-04-19T20:12:11.670Z"
     },
     {
       "id": 31,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
       "platform": "tiktok",
-      "view_count": 2345,
-      "recorded_at": "2026-04-17T15:34:54.122Z"
+      "view_count": 711,
+      "recorded_at": "2026-04-19T20:12:11.420Z"
     },
     {
       "id": 32,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5134,
-      "recorded_at": "2026-04-17T15:34:49.821Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2807,
+      "recorded_at": "2026-04-19T20:12:20.413Z"
     },
     {
       "id": 33,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
       "platform": "youtube",
-      "view_count": 5265,
-      "recorded_at": "2026-04-17T15:35:14.307Z"
+      "view_count": 846,
+      "recorded_at": "2026-04-19T20:12:34.006Z"
     },
     {
       "id": 34,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
-      "platform": "tiktok",
-      "view_count": 2381,
-      "recorded_at": "2026-04-17T15:35:24.205Z"
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
+      "platform": "youtube",
+      "view_count": 250,
+      "recorded_at": "2026-04-19T20:12:37.900Z"
     },
     {
       "id": 35,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5361,
-      "recorded_at": "2026-04-17T15:35:39.301Z"
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 705,
+      "recorded_at": "2026-04-19T20:12:42.144Z"
     },
     {
       "id": 36,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 186,
+      "channel_name": "redunotv",
       "platform": "tiktok",
-      "view_count": 2423,
-      "recorded_at": "2026-04-17T15:35:54.024Z"
+      "view_count": 2770,
+      "recorded_at": "2026-04-19T20:12:49.564Z"
     },
     {
       "id": 37,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
-      "platform": "tiktok",
-      "view_count": 2441,
-      "recorded_at": "2026-04-17T15:36:22.850Z"
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
+      "platform": "youtube",
+      "view_count": 865,
+      "recorded_at": "2026-04-19T20:12:59.966Z"
     },
     {
       "id": 38,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
       "platform": "youtube",
-      "view_count": 5391,
-      "recorded_at": "2026-04-17T15:36:04.446Z"
+      "view_count": 251,
+      "recorded_at": "2026-04-19T20:13:08.418Z"
     },
     {
       "id": 39,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5406,
-      "recorded_at": "2026-04-17T15:36:54.401Z"
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 728,
+      "recorded_at": "2026-04-19T20:13:11.749Z"
     },
     {
       "id": 40,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 186,
+      "channel_name": "redunotv",
       "platform": "tiktok",
-      "view_count": 2492,
-      "recorded_at": "2026-04-17T15:36:54.513Z"
+      "view_count": 2717,
+      "recorded_at": "2026-04-19T20:13:22.202Z"
     },
     {
       "id": 41,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
       "platform": "youtube",
-      "view_count": 5404,
-      "recorded_at": "2026-04-17T15:37:19.743Z"
+      "view_count": 854,
+      "recorded_at": "2026-04-19T20:13:30.787Z"
     },
     {
       "id": 42,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
-      "platform": "tiktok",
-      "view_count": 2547,
-      "recorded_at": "2026-04-17T15:37:22.188Z"
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
+      "platform": "youtube",
+      "view_count": 257,
+      "recorded_at": "2026-04-19T20:13:37.942Z"
     },
     {
       "id": 43,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5424,
-      "recorded_at": "2026-04-17T15:37:45.266Z"
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 724,
+      "recorded_at": "2026-04-19T20:13:40.185Z"
     },
     {
       "id": 44,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 186,
+      "channel_name": "redunotv",
       "platform": "tiktok",
-      "view_count": 2577,
-      "recorded_at": "2026-04-17T15:37:53.943Z"
+      "view_count": 2685,
+      "recorded_at": "2026-04-19T20:13:50.379Z"
     },
     {
       "id": 45,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
       "platform": "youtube",
-      "view_count": 5410,
-      "recorded_at": "2026-04-17T15:38:09.685Z"
+      "view_count": 843,
+      "recorded_at": "2026-04-19T20:14:07.961Z"
     },
     {
       "id": 46,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
-      "platform": "tiktok",
-      "view_count": 2618,
-      "recorded_at": "2026-04-17T15:38:22.140Z"
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
+      "platform": "youtube",
+      "view_count": 275,
+      "recorded_at": "2026-04-19T20:14:08.831Z"
     },
     {
       "id": 47,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
       "platform": "tiktok",
-      "view_count": 2654,
-      "recorded_at": "2026-04-17T15:38:52.365Z"
+      "view_count": 712,
+      "recorded_at": "2026-04-19T20:14:12.205Z"
     },
     {
       "id": 48,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5410,
-      "recorded_at": "2026-04-17T15:38:34.429Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2717,
+      "recorded_at": "2026-04-19T20:14:22.845Z"
     },
     {
       "id": 49,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5394,
-      "recorded_at": "2026-04-17T15:39:24.433Z"
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 717,
+      "recorded_at": "2026-04-19T20:14:41.181Z"
     },
     {
       "id": 50,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
-      "platform": "tiktok",
-      "view_count": 2631,
-      "recorded_at": "2026-04-17T15:39:24.522Z"
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
+      "platform": "youtube",
+      "view_count": 294,
+      "recorded_at": "2026-04-19T20:14:51.110Z"
     },
     {
       "id": 51,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 4566,
-      "recorded_at": "2026-04-17T15:39:49.432Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2705,
+      "recorded_at": "2026-04-19T20:14:51.925Z"
     },
     {
       "id": 52,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
-      "platform": "tiktok",
-      "view_count": 2627,
-      "recorded_at": "2026-04-17T15:39:54.234Z"
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
+      "platform": "youtube",
+      "view_count": 844,
+      "recorded_at": "2026-04-19T20:14:52.544Z"
     },
     {
       "id": 53,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
       "platform": "youtube",
-      "view_count": 4191,
-      "recorded_at": "2026-04-17T15:40:14.485Z"
+      "view_count": 294,
+      "recorded_at": "2026-04-19T20:14:51.110Z"
     },
     {
       "id": 54,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
       "platform": "tiktok",
-      "view_count": 2633,
-      "recorded_at": "2026-04-17T15:40:24.001Z"
+      "view_count": 714,
+      "recorded_at": "2026-04-19T20:15:12.316Z"
     },
     {
       "id": 55,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 4159,
-      "recorded_at": "2026-04-17T15:40:40.154Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2751,
+      "recorded_at": "2026-04-19T20:15:21.955Z"
     },
     {
       "id": 56,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
-      "platform": "tiktok",
-      "view_count": 2651,
-      "recorded_at": "2026-04-17T15:40:54.545Z"
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
+      "platform": "youtube",
+      "view_count": 854,
+      "recorded_at": "2026-04-19T20:15:31.680Z"
     },
     {
       "id": 57,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
       "platform": "youtube",
-      "view_count": 4282,
-      "recorded_at": "2026-04-17T15:41:04.473Z"
+      "view_count": 307,
+      "recorded_at": "2026-04-19T20:15:20.221Z"
     },
     {
       "id": 58,
-      "live_count_id": 8,
-      "channel_name": "pubgmobile.np.official",
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
       "platform": "tiktok",
-      "view_count": 2659,
-      "recorded_at": "2026-04-17T15:41:24.422Z"
+      "view_count": 702,
+      "recorded_at": "2026-04-19T20:15:41.893Z"
     },
     {
       "id": 59,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5081,
-      "recorded_at": "2026-04-17T16:02:06.305Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2835,
+      "recorded_at": "2026-04-19T20:15:52.810Z"
     },
     {
       "id": 60,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
       "platform": "youtube",
-      "view_count": 5128,
-      "recorded_at": "2026-04-17T16:02:36.417Z"
+      "view_count": 855,
+      "recorded_at": "2026-04-19T20:15:54.895Z"
     },
     {
       "id": 61,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
       "platform": "youtube",
-      "view_count": 5125,
-      "recorded_at": "2026-04-17T16:03:06.325Z"
+      "view_count": 308,
+      "recorded_at": "2026-04-19T20:16:08.183Z"
     },
     {
       "id": 62,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5149,
-      "recorded_at": "2026-04-17T16:03:36.322Z"
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 708,
+      "recorded_at": "2026-04-19T20:16:11.642Z"
     },
     {
       "id": 63,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5149,
-      "recorded_at": "2026-04-17T16:04:06.340Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2812,
+      "recorded_at": "2026-04-19T20:16:22.077Z"
     },
     {
       "id": 64,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
       "platform": "youtube",
-      "view_count": 5139,
-      "recorded_at": "2026-04-17T16:04:36.349Z"
+      "view_count": 861,
+      "recorded_at": "2026-04-19T20:16:20.878Z"
     },
     {
       "id": 65,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
       "platform": "youtube",
-      "view_count": 5178,
-      "recorded_at": "2026-04-17T16:05:06.506Z"
+      "view_count": 316,
+      "recorded_at": "2026-04-19T20:16:34.719Z"
     },
     {
       "id": 66,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5194,
-      "recorded_at": "2026-04-17T16:05:36.610Z"
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 724,
+      "recorded_at": "2026-04-19T20:16:38.411Z"
     },
     {
       "id": 67,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5192,
-      "recorded_at": "2026-04-17T16:06:06.405Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2732,
+      "recorded_at": "2026-04-19T20:16:51.721Z"
     },
     {
       "id": 68,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
       "platform": "youtube",
-      "view_count": 5189,
-      "recorded_at": "2026-04-17T16:06:36.522Z"
+      "view_count": 850,
+      "recorded_at": "2026-04-19T20:16:47.822Z"
     },
     {
       "id": 69,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
       "platform": "youtube",
-      "view_count": 5188,
-      "recorded_at": "2026-04-17T16:07:06.436Z"
+      "view_count": 316,
+      "recorded_at": "2026-04-19T20:17:06.680Z"
     },
     {
       "id": 70,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5194,
-      "recorded_at": "2026-04-17T16:07:37.444Z"
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 707,
+      "recorded_at": "2026-04-19T20:17:12.500Z"
     },
     {
       "id": 71,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5201,
-      "recorded_at": "2026-04-17T16:08:06.423Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2675,
+      "recorded_at": "2026-04-19T20:17:19.953Z"
     },
     {
       "id": 72,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
       "platform": "youtube",
-      "view_count": 5223,
-      "recorded_at": "2026-04-17T16:08:36.516Z"
+      "view_count": 847,
+      "recorded_at": "2026-04-19T20:17:34.306Z"
     },
     {
       "id": 73,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
       "platform": "youtube",
-      "view_count": 5233,
-      "recorded_at": "2026-04-17T16:09:06.434Z"
+      "view_count": 328,
+      "recorded_at": "2026-04-19T20:17:41.088Z"
     },
     {
       "id": 74,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5251,
-      "recorded_at": "2026-04-17T16:09:36.414Z"
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 752,
+      "recorded_at": "2026-04-19T20:17:42.083Z"
     },
     {
       "id": 75,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5248,
-      "recorded_at": "2026-04-17T16:10:06.441Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2734,
+      "recorded_at": "2026-04-19T20:17:52.293Z"
     },
     {
       "id": 76,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
       "platform": "youtube",
-      "view_count": 5270,
-      "recorded_at": "2026-04-17T16:10:36.425Z"
+      "view_count": 870,
+      "recorded_at": "2026-04-19T20:18:03.358Z"
     },
     {
       "id": 77,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
       "platform": "youtube",
-      "view_count": 5262,
-      "recorded_at": "2026-04-17T16:11:06.551Z"
+      "view_count": 326,
+      "recorded_at": "2026-04-19T20:18:11.423Z"
     },
     {
       "id": 78,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5234,
-      "recorded_at": "2026-04-17T16:11:37.932Z"
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 785,
+      "recorded_at": "2026-04-19T20:18:11.858Z"
     },
     {
       "id": 79,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
-      "platform": "youtube",
-      "view_count": 5221,
-      "recorded_at": "2026-04-17T16:12:06.551Z"
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2806,
+      "recorded_at": "2026-04-19T20:18:22.272Z"
     },
     {
       "id": 80,
-      "live_count_id": 4,
-      "channel_name": "NBC News",
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
       "platform": "youtube",
-      "view_count": 5223,
-      "recorded_at": "2026-04-17T16:12:36.451Z"
+      "view_count": 880,
+      "recorded_at": "2026-04-19T20:18:30.119Z"
+    },
+    {
+      "id": 81,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 785,
+      "recorded_at": "2026-04-19T20:18:42.483Z"
+    },
+    {
+      "id": 82,
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
+      "platform": "youtube",
+      "view_count": 341,
+      "recorded_at": "2026-04-19T20:18:48.389Z"
+    },
+    {
+      "id": 83,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2893,
+      "recorded_at": "2026-04-19T20:18:52.347Z"
+    },
+    {
+      "id": 84,
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
+      "platform": "youtube",
+      "view_count": 886,
+      "recorded_at": "2026-04-19T20:19:05.586Z"
+    },
+    {
+      "id": 85,
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
+      "platform": "youtube",
+      "view_count": 341,
+      "recorded_at": "2026-04-19T20:18:48.392Z"
+    },
+    {
+      "id": 86,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 705,
+      "recorded_at": "2026-04-19T20:19:11.911Z"
+    },
+    {
+      "id": 87,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2787,
+      "recorded_at": "2026-04-19T20:19:21.024Z"
+    },
+    {
+      "id": 88,
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
+      "platform": "youtube",
+      "view_count": 886,
+      "recorded_at": "2026-04-19T20:19:32.911Z"
+    },
+    {
+      "id": 89,
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
+      "platform": "youtube",
+      "view_count": 339,
+      "recorded_at": "2026-04-19T20:19:29.027Z"
+    },
+    {
+      "id": 90,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 616,
+      "recorded_at": "2026-04-19T20:19:41.624Z"
+    },
+    {
+      "id": 91,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2607,
+      "recorded_at": "2026-04-19T20:19:52.084Z"
+    },
+    {
+      "id": 92,
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
+      "platform": "youtube",
+      "view_count": 875,
+      "recorded_at": "2026-04-19T20:20:05.039Z"
+    },
+    {
+      "id": 93,
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
+      "platform": "youtube",
+      "view_count": 347,
+      "recorded_at": "2026-04-19T20:19:56.983Z"
+    },
+    {
+      "id": 94,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 569,
+      "recorded_at": "2026-04-19T20:20:12.232Z"
+    },
+    {
+      "id": 95,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2611,
+      "recorded_at": "2026-04-19T20:20:21.803Z"
+    },
+    {
+      "id": 96,
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
+      "platform": "youtube",
+      "view_count": 869,
+      "recorded_at": "2026-04-19T20:20:32.565Z"
+    },
+    {
+      "id": 97,
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
+      "platform": "youtube",
+      "view_count": 366,
+      "recorded_at": "2026-04-19T20:20:19.691Z"
+    },
+    {
+      "id": 98,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 567,
+      "recorded_at": "2026-04-19T20:20:40.188Z"
+    },
+    {
+      "id": 99,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2557,
+      "recorded_at": "2026-04-19T20:20:51.695Z"
+    },
+    {
+      "id": 100,
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
+      "platform": "youtube",
+      "view_count": 877,
+      "recorded_at": "2026-04-19T20:20:56.021Z"
+    },
+    {
+      "id": 101,
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
+      "platform": "youtube",
+      "view_count": 379,
+      "recorded_at": "2026-04-19T20:21:10.102Z"
+    },
+    {
+      "id": 102,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 553,
+      "recorded_at": "2026-04-19T20:21:12.182Z"
+    },
+    {
+      "id": 103,
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
+      "platform": "youtube",
+      "view_count": 890,
+      "recorded_at": "2026-04-19T20:21:20.885Z"
+    },
+    {
+      "id": 104,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 584,
+      "recorded_at": "2026-04-19T20:21:42.315Z"
+    },
+    {
+      "id": 105,
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
+      "platform": "youtube",
+      "view_count": 387,
+      "recorded_at": "2026-04-19T20:21:40.696Z"
+    },
+    {
+      "id": 106,
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
+      "platform": "youtube",
+      "view_count": 884,
+      "recorded_at": "2026-04-19T20:21:48.289Z"
+    },
+    {
+      "id": 107,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 551,
+      "recorded_at": "2026-04-19T20:22:10.295Z"
+    },
+    {
+      "id": 108,
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
+      "platform": "youtube",
+      "view_count": 877,
+      "recorded_at": "2026-04-19T20:22:16.902Z"
+    },
+    {
+      "id": 109,
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
+      "platform": "youtube",
+      "view_count": 377,
+      "recorded_at": "2026-04-19T20:22:24.021Z"
+    },
+    {
+      "id": 110,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 516,
+      "recorded_at": "2026-04-19T20:22:40.204Z"
+    },
+    {
+      "id": 111,
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
+      "platform": "youtube",
+      "view_count": 843,
+      "recorded_at": "2026-04-19T20:23:00.920Z"
+    },
+    {
+      "id": 112,
+      "live_count_id": 196,
+      "channel_name": "Unitel Bolivia",
+      "platform": "youtube",
+      "view_count": 392,
+      "recorded_at": "2026-04-19T20:22:56.240Z"
+    },
+    {
+      "id": 113,
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
+      "platform": "youtube",
+      "view_count": 858,
+      "recorded_at": "2026-04-19T20:23:29.225Z"
+    },
+    {
+      "id": 114,
+      "live_count_id": 205,
+      "channel_name": "Red Uno De Bolivia",
+      "platform": "youtube",
+      "view_count": 868,
+      "recorded_at": "2026-04-19T20:23:51.122Z"
+    },
+    {
+      "id": 115,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 116,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 117,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 118,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 119,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 120,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 121,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 122,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 123,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 124,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 125,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 126,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 127,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 128,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 129,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 130,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 131,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 132,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 133,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 134,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 135,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 136,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 137,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 138,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 139,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 751,
+      "recorded_at": "2026-04-19T22:13:53.644Z"
+    },
+    {
+      "id": 140,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 141,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 760,
+      "recorded_at": "2026-04-19T22:14:24.355Z"
+    },
+    {
+      "id": 142,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 143,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 772,
+      "recorded_at": "2026-04-19T22:14:54.105Z"
+    },
+    {
+      "id": 144,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 145,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 146,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 822,
+      "recorded_at": "2026-04-19T22:15:23.757Z"
+    },
+    {
+      "id": 147,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 2758,
+      "recorded_at": "2026-04-19T20:25:47.344Z"
+    },
+    {
+      "id": 148,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 848,
+      "recorded_at": "2026-04-19T22:15:53.761Z"
+    },
+    {
+      "id": 149,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 849,
+      "recorded_at": "2026-04-19T22:16:24.012Z"
+    },
+    {
+      "id": 150,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 943,
+      "recorded_at": "2026-04-19T22:16:53.970Z"
+    },
+    {
+      "id": 151,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 967,
+      "recorded_at": "2026-04-19T22:17:24.262Z"
+    },
+    {
+      "id": 152,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 975,
+      "recorded_at": "2026-04-19T22:17:54.179Z"
+    },
+    {
+      "id": 153,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1006,
+      "recorded_at": "2026-04-19T22:18:23.924Z"
+    },
+    {
+      "id": 154,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1048,
+      "recorded_at": "2026-04-19T22:18:53.671Z"
+    },
+    {
+      "id": 155,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 5552,
+      "recorded_at": "2026-04-19T22:19:09.598Z"
+    },
+    {
+      "id": 156,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1080,
+      "recorded_at": "2026-04-19T22:19:24.119Z"
+    },
+    {
+      "id": 157,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 5687,
+      "recorded_at": "2026-04-19T22:19:40.263Z"
+    },
+    {
+      "id": 158,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1079,
+      "recorded_at": "2026-04-19T22:19:53.985Z"
+    },
+    {
+      "id": 159,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 5859,
+      "recorded_at": "2026-04-19T22:20:10.230Z"
+    },
+    {
+      "id": 160,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1086,
+      "recorded_at": "2026-04-19T22:20:24.241Z"
+    },
+    {
+      "id": 161,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 5996,
+      "recorded_at": "2026-04-19T22:20:40.226Z"
+    },
+    {
+      "id": 162,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1139,
+      "recorded_at": "2026-04-19T22:20:54.095Z"
+    },
+    {
+      "id": 163,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 6200,
+      "recorded_at": "2026-04-19T22:21:09.686Z"
+    },
+    {
+      "id": 164,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1150,
+      "recorded_at": "2026-04-19T22:21:23.891Z"
+    },
+    {
+      "id": 165,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 6170,
+      "recorded_at": "2026-04-19T22:21:40.281Z"
+    },
+    {
+      "id": 166,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1061,
+      "recorded_at": "2026-04-19T22:21:53.564Z"
+    },
+    {
+      "id": 167,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 6091,
+      "recorded_at": "2026-04-19T22:22:09.943Z"
+    },
+    {
+      "id": 168,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 942,
+      "recorded_at": "2026-04-19T22:22:24.103Z"
+    },
+    {
+      "id": 169,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 6243,
+      "recorded_at": "2026-04-19T22:22:39.898Z"
+    },
+    {
+      "id": 170,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 914,
+      "recorded_at": "2026-04-19T22:22:53.862Z"
+    },
+    {
+      "id": 171,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 6432,
+      "recorded_at": "2026-04-19T22:23:09.587Z"
+    },
+    {
+      "id": 172,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 960,
+      "recorded_at": "2026-04-19T22:23:23.677Z"
+    },
+    {
+      "id": 173,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 6848,
+      "recorded_at": "2026-04-19T22:23:40.187Z"
+    },
+    {
+      "id": 174,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1030,
+      "recorded_at": "2026-04-19T22:23:53.679Z"
+    },
+    {
+      "id": 175,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 7074,
+      "recorded_at": "2026-04-19T22:24:09.992Z"
+    },
+    {
+      "id": 176,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1149,
+      "recorded_at": "2026-04-19T22:24:23.671Z"
+    },
+    {
+      "id": 177,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 7084,
+      "recorded_at": "2026-04-19T22:24:39.817Z"
+    },
+    {
+      "id": 178,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1245,
+      "recorded_at": "2026-04-19T22:24:54.198Z"
+    },
+    {
+      "id": 179,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 7258,
+      "recorded_at": "2026-04-19T22:25:11.511Z"
+    },
+    {
+      "id": 180,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1284,
+      "recorded_at": "2026-04-19T22:25:23.497Z"
+    },
+    {
+      "id": 181,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 7248,
+      "recorded_at": "2026-04-19T22:25:39.712Z"
+    },
+    {
+      "id": 182,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1343,
+      "recorded_at": "2026-04-19T22:25:54.011Z"
+    },
+    {
+      "id": 183,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 7435,
+      "recorded_at": "2026-04-19T22:26:10.162Z"
+    },
+    {
+      "id": 184,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1361,
+      "recorded_at": "2026-04-19T22:26:23.878Z"
+    },
+    {
+      "id": 185,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 7844,
+      "recorded_at": "2026-04-19T22:26:40.253Z"
+    },
+    {
+      "id": 186,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1386,
+      "recorded_at": "2026-04-19T22:26:53.770Z"
+    },
+    {
+      "id": 187,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 8414,
+      "recorded_at": "2026-04-19T22:27:10.190Z"
+    },
+    {
+      "id": 188,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1515,
+      "recorded_at": "2026-04-19T22:27:24.122Z"
+    },
+    {
+      "id": 189,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 9286,
+      "recorded_at": "2026-04-19T22:27:39.722Z"
+    },
+    {
+      "id": 190,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1672,
+      "recorded_at": "2026-04-19T22:27:54.036Z"
+    },
+    {
+      "id": 191,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 10142,
+      "recorded_at": "2026-04-19T22:28:09.616Z"
+    },
+    {
+      "id": 192,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1762,
+      "recorded_at": "2026-04-19T22:28:23.796Z"
+    },
+    {
+      "id": 193,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 10914,
+      "recorded_at": "2026-04-19T22:28:40.254Z"
+    },
+    {
+      "id": 194,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 1957,
+      "recorded_at": "2026-04-19T22:28:53.431Z"
+    },
+    {
+      "id": 195,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 11599,
+      "recorded_at": "2026-04-19T22:29:10.017Z"
+    },
+    {
+      "id": 196,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2267,
+      "recorded_at": "2026-04-19T22:29:23.450Z"
+    },
+    {
+      "id": 197,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 12349,
+      "recorded_at": "2026-04-19T22:29:39.952Z"
+    },
+    {
+      "id": 198,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2219,
+      "recorded_at": "2026-04-19T22:29:54.046Z"
+    },
+    {
+      "id": 199,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 11605,
+      "recorded_at": "2026-04-19T22:30:09.573Z"
+    },
+    {
+      "id": 200,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2170,
+      "recorded_at": "2026-04-19T22:30:23.979Z"
+    },
+    {
+      "id": 201,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 11743,
+      "recorded_at": "2026-04-19T22:30:40.076Z"
+    },
+    {
+      "id": 202,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2296,
+      "recorded_at": "2026-04-19T22:30:53.683Z"
+    },
+    {
+      "id": 203,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 12158,
+      "recorded_at": "2026-04-19T22:31:10.002Z"
+    },
+    {
+      "id": 204,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2590,
+      "recorded_at": "2026-04-19T22:31:24.206Z"
+    },
+    {
+      "id": 205,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 12294,
+      "recorded_at": "2026-04-19T22:31:39.971Z"
+    },
+    {
+      "id": 206,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2794,
+      "recorded_at": "2026-04-19T22:31:51.706Z"
+    },
+    {
+      "id": 207,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 12414,
+      "recorded_at": "2026-04-19T22:32:09.612Z"
+    },
+    {
+      "id": 208,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2956,
+      "recorded_at": "2026-04-19T22:32:23.821Z"
+    },
+    {
+      "id": 209,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 12203,
+      "recorded_at": "2026-04-19T22:32:39.608Z"
+    },
+    {
+      "id": 210,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 3144,
+      "recorded_at": "2026-04-19T22:32:53.766Z"
+    },
+    {
+      "id": 211,
+      "live_count_id": 186,
+      "channel_name": "redunotv",
+      "platform": "tiktok",
+      "view_count": 11889,
+      "recorded_at": "2026-04-19T22:33:10.223Z"
+    },
+    {
+      "id": 212,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2662,
+      "recorded_at": "2026-04-19T22:36:05.677Z"
+    },
+    {
+      "id": 213,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 4059,
+      "recorded_at": "2026-04-19T22:36:30.063Z"
+    },
+    {
+      "id": 214,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2635,
+      "recorded_at": "2026-04-19T22:36:35.641Z"
+    },
+    {
+      "id": 215,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3789,
+      "recorded_at": "2026-04-19T22:36:59.850Z"
+    },
+    {
+      "id": 216,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2625,
+      "recorded_at": "2026-04-19T22:37:06.280Z"
+    },
+    {
+      "id": 217,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3686,
+      "recorded_at": "2026-04-19T22:37:29.860Z"
+    },
+    {
+      "id": 218,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2409,
+      "recorded_at": "2026-04-19T22:37:37.739Z"
+    },
+    {
+      "id": 219,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3787,
+      "recorded_at": "2026-04-19T22:37:59.725Z"
+    },
+    {
+      "id": 220,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2411,
+      "recorded_at": "2026-04-19T22:38:07.472Z"
+    },
+    {
+      "id": 221,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3866,
+      "recorded_at": "2026-04-19T22:38:29.685Z"
+    },
+    {
+      "id": 222,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2526,
+      "recorded_at": "2026-04-19T22:38:36.285Z"
+    },
+    {
+      "id": 223,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3992,
+      "recorded_at": "2026-04-19T22:39:00.215Z"
+    },
+    {
+      "id": 224,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2687,
+      "recorded_at": "2026-04-19T22:39:07.732Z"
+    },
+    {
+      "id": 225,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 4073,
+      "recorded_at": "2026-04-19T22:39:29.882Z"
+    },
+    {
+      "id": 226,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2818,
+      "recorded_at": "2026-04-19T22:39:35.652Z"
+    },
+    {
+      "id": 227,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 4096,
+      "recorded_at": "2026-04-19T22:39:59.642Z"
+    },
+    {
+      "id": 228,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 3011,
+      "recorded_at": "2026-04-19T22:40:05.635Z"
+    },
+    {
+      "id": 229,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 4025,
+      "recorded_at": "2026-04-19T22:40:30.194Z"
+    },
+    {
+      "id": 230,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 3025,
+      "recorded_at": "2026-04-19T22:40:37.603Z"
+    },
+    {
+      "id": 231,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3966,
+      "recorded_at": "2026-04-19T22:41:00.214Z"
+    },
+    {
+      "id": 232,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 3307,
+      "recorded_at": "2026-04-19T22:41:07.453Z"
+    },
+    {
+      "id": 233,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3862,
+      "recorded_at": "2026-04-19T22:41:30.195Z"
+    },
+    {
+      "id": 234,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 3382,
+      "recorded_at": "2026-04-19T22:41:37.958Z"
+    },
+    {
+      "id": 235,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3846,
+      "recorded_at": "2026-04-19T22:41:59.959Z"
+    },
+    {
+      "id": 236,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 3350,
+      "recorded_at": "2026-04-19T22:42:07.474Z"
+    },
+    {
+      "id": 237,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3883,
+      "recorded_at": "2026-04-19T22:42:29.623Z"
+    },
+    {
+      "id": 238,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 3286,
+      "recorded_at": "2026-04-19T22:42:35.530Z"
+    },
+    {
+      "id": 239,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3692,
+      "recorded_at": "2026-04-19T22:43:00.030Z"
+    },
+    {
+      "id": 240,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 3115,
+      "recorded_at": "2026-04-19T22:43:07.862Z"
+    },
+    {
+      "id": 241,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3771,
+      "recorded_at": "2026-04-19T22:43:29.957Z"
+    },
+    {
+      "id": 242,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 3041,
+      "recorded_at": "2026-04-19T22:43:37.732Z"
+    },
+    {
+      "id": 243,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3763,
+      "recorded_at": "2026-04-19T22:43:59.919Z"
+    },
+    {
+      "id": 244,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2881,
+      "recorded_at": "2026-04-19T22:44:05.765Z"
+    },
+    {
+      "id": 245,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3859,
+      "recorded_at": "2026-04-19T22:44:29.708Z"
+    },
+    {
+      "id": 246,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2896,
+      "recorded_at": "2026-04-19T22:44:38.024Z"
+    },
+    {
+      "id": 247,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3860,
+      "recorded_at": "2026-04-19T22:45:00.216Z"
+    },
+    {
+      "id": 248,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2890,
+      "recorded_at": "2026-04-19T22:45:05.543Z"
+    },
+    {
+      "id": 249,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3705,
+      "recorded_at": "2026-04-19T22:45:30.117Z"
+    },
+    {
+      "id": 250,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2698,
+      "recorded_at": "2026-04-19T22:45:37.840Z"
+    },
+    {
+      "id": 251,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3666,
+      "recorded_at": "2026-04-19T22:45:59.946Z"
+    },
+    {
+      "id": 252,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2640,
+      "recorded_at": "2026-04-19T22:46:05.801Z"
+    },
+    {
+      "id": 253,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3668,
+      "recorded_at": "2026-04-19T22:46:29.824Z"
+    },
+    {
+      "id": 254,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2491,
+      "recorded_at": "2026-04-19T22:46:37.791Z"
+    },
+    {
+      "id": 255,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3539,
+      "recorded_at": "2026-04-19T22:46:59.577Z"
+    },
+    {
+      "id": 256,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2730,
+      "recorded_at": "2026-04-19T22:47:07.498Z"
+    },
+    {
+      "id": 257,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3417,
+      "recorded_at": "2026-04-19T22:47:29.501Z"
+    },
+    {
+      "id": 258,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2999,
+      "recorded_at": "2026-04-19T22:47:35.597Z"
+    },
+    {
+      "id": 259,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3427,
+      "recorded_at": "2026-04-19T22:47:59.810Z"
+    },
+    {
+      "id": 260,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2820,
+      "recorded_at": "2026-04-19T22:48:07.968Z"
+    },
+    {
+      "id": 261,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3404,
+      "recorded_at": "2026-04-19T22:48:29.487Z"
+    },
+    {
+      "id": 262,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2740,
+      "recorded_at": "2026-04-19T22:48:37.769Z"
+    },
+    {
+      "id": 263,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3386,
+      "recorded_at": "2026-04-19T22:49:00.063Z"
+    },
+    {
+      "id": 264,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2745,
+      "recorded_at": "2026-04-19T22:49:08.092Z"
+    },
+    {
+      "id": 265,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3321,
+      "recorded_at": "2026-04-19T22:49:30.212Z"
+    },
+    {
+      "id": 266,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2684,
+      "recorded_at": "2026-04-19T22:49:37.911Z"
+    },
+    {
+      "id": 267,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3370,
+      "recorded_at": "2026-04-19T22:50:00.027Z"
+    },
+    {
+      "id": 268,
+      "live_count_id": 305,
+      "channel_name": "eldeber.com.bo",
+      "platform": "tiktok",
+      "view_count": 2607,
+      "recorded_at": "2026-04-19T22:50:07.767Z"
+    },
+    {
+      "id": 269,
+      "live_count_id": 187,
+      "channel_name": "unitel.bo",
+      "platform": "tiktok",
+      "view_count": 3469,
+      "recorded_at": "2026-04-19T22:50:29.909Z"
     }
   ]
 }
