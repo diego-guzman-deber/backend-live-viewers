@@ -40,7 +40,7 @@ COPY --from=builder /app/dist /app/dist
 COPY --from=builder /app/public /app/public
 
 # Verificar que main.js existe antes de continuar
-RUN ls -la /app/dist/ && test -f /app/dist/main.js && echo "✅ dist/main.js encontrado" || (echo "❌ dist/main.js NO encontrado" && exit 1)
+RUN test -f /app/dist/main.js && echo "✅ dist/main.js encontrado" || (echo "❌ dist/main.js NO encontrado. Contenido de dist/:" && ls -la /app/dist/ && exit 1)
 
 # Directorio de datos con permisos correctos
 RUN mkdir -p /app/data && chown -R node:node /app
