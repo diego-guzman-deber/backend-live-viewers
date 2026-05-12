@@ -1,0 +1,10 @@
+node_modules
+dist
+.git
+.gitignore
+.env
+data/viewers-cache.json
+test
+*.md
+.postman
+postman
