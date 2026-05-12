@@ -8,8 +8,11 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm ci
 
+# Copiar fuentes (sin dist gracias al .dockerignore)
 COPY . .
-RUN npm run build
+
+# Compilar – genera /app/dist/
+RUN npm run build && ls -la dist/
 
 # ─────────────────────────────────────────────
 # Etapa 2: Producción
@@ -20,32 +23,33 @@ WORKDIR /app
 
 ENV NODE_ENV=production
 ENV PORT=3000
-# Playwright instalará los browsers en esta ruta (como root durante el build)
 ENV PLAYWRIGHT_BROWSERS_PATH=/ms-playwright
 
-# 1. Instalar dependencias de producción
+# Dependencias de producción
 COPY package*.json ./
 RUN npm ci --omit=dev
 
-# 2. Instalar Chromium con sus dependencias del sistema (como root)
-#    La carpeta /ms-playwright será accesible por cualquier usuario
+# Instalar Chromium con sus dependencias (como root)
 RUN npx playwright install --with-deps chromium && \
     chmod -R 755 /ms-playwright
 
-# 3. Copiar artefactos del builder
-COPY --from=builder /app/dist ./dist
-COPY --from=builder /app/public ./public
+# Copiar dist compilado desde el builder
+COPY --from=builder /app/dist /app/dist
 
-# 4. Preparar directorio de datos y asignar propietario
-RUN mkdir -p data && chown -R node:node /app
+# Copiar archivos estáticos
+COPY --from=builder /app/public /app/public
 
-# 5. Ejecutar como usuario sin privilegios
+# Verificar que main.js existe antes de continuar
+RUN ls -la /app/dist/ && test -f /app/dist/main.js && echo "✅ dist/main.js encontrado" || (echo "❌ dist/main.js NO encontrado" && exit 1)
+
+# Directorio de datos con permisos correctos
+RUN mkdir -p /app/data && chown -R node:node /app
+
 USER node
 
 EXPOSE 3000
 
-# Verifica que el servidor responde (Docker/Dokploy usa esto para detectar crashes)
 HEALTHCHECK --interval=30s --timeout=10s --start-period=30s --retries=3 \
-  CMD node -e "require('http').get('http://localhost:3000', r => process.exit(r.statusCode === 200 ? 0 : 1)).on('error', () => process.exit(1))"
+  CMD node -e "require('http').get('http://localhost:3000', r => process.exit(r.statusCode < 500 ? 0 : 1)).on('error', () => process.exit(1))"
 
-CMD ["node", "dist/main"]
+CMD ["node", "/app/dist/main.js"]
