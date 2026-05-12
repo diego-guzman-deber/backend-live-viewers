@@ -26,14 +26,11 @@ async function bootstrap() {
   // Servir archivos estáticos
   app.useStaticAssets(join(__dirname, '..', 'public'));
 
-  const port = process.env.PORT ?? 3000;
+  const port = process.env.PORT || 3000;
 
   // Escuchar en todas las interfaces (clave para servidor)
   await app.listen(port, '0.0.0.0');
 
-  console.log(`🚀 Servidor corriendo en puerto ${port}`);
-  console.log(`🌐 API: http://172.20.16.38:${port}`);
-  console.log(`📊 Viewer: http://172.20.16.38:${port}/realtime-viewer.html`);
 }
 
 bootstrap();

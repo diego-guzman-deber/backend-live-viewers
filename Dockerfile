@@ -22,6 +22,7 @@ WORKDIR /app
 
 # Establecer entorno a producción
 ENV NODE_ENV=production
+ENV PORT=3000
 
 # Copiar archivos de dependencias
 COPY package*.json ./
@@ -29,8 +30,10 @@ COPY package*.json ./
 # Instalar SOLO las dependencias de producción
 RUN npm ci --omit=dev
 
+# Configurar Playwright para que descargue los navegadores en una carpeta accesible
+ENV PLAYWRIGHT_BROWSERS_PATH=/home/node/.cache/ms-playwright
+
 # Instalar dependencias del sistema requeridas por Playwright y luego descargar Chromium
-# Esto es necesario para el módulo de Facebook Live
 RUN apt-get update && \
     npx playwright install --with-deps chromium && \
     rm -rf /var/lib/apt/lists/*
@@ -41,8 +44,11 @@ COPY --from=builder /app/dist ./dist
 # Copiar la carpeta pública de archivos estáticos
 COPY --from=builder /app/public ./public
 
-# Crear directorio data para el caché JSON y asignar permisos al usuario 'node'
-RUN mkdir -p data && chown -R node:node data
+# Crear directorio data para el caché JSON y dar permisos a todas las carpetas necesarias
+RUN mkdir -p data && \
+    mkdir -p /home/node/.cache && \
+    chown -R node:node /app && \
+    chown -R node:node /home/node
 
 # Cambiar a un usuario sin privilegios por seguridad
 USER node
